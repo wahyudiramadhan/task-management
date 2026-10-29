@@ -1,0 +1,8 @@
+{
+  "name": "Task Planner \u0026 Manager",
+  "description": "Material 3 Task Planner \u0026 Manager powered by Google Sheets and Apps Script API with complete Flutter codebase export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
